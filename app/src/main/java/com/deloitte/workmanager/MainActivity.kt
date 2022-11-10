@@ -18,6 +18,7 @@ private const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
 
   // commit test
+  // commit test1
   lateinit var airplaneBroadcastReceiver: AirplaneBroadcastReceiver
 
   @RequiresApi(Build.VERSION_CODES.M)
